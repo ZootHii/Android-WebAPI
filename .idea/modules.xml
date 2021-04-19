@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ders1.iml" filepath="$PROJECT_DIR$/.idea/modules/Ders1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Ders1.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Ders1.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android-WebAPI.iml" filepath="$PROJECT_DIR$/.idea/modules/Android-WebAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-WebAPI.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-WebAPI.app.iml" />
     </modules>
   </component>
 </project>

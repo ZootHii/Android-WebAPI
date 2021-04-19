@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "Ders1"
+rootProject.name = "Android-WebAPI"
